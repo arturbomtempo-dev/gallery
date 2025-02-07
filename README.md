@@ -12,4 +12,4 @@ Simulate the home page of a photo gallery, where there is the display of various
 * [SASS](https://sass-lang.com/documentation/): create the CSS file, adding resources to it
 
 ## 📁 Project access
-You can view the hosted page by clicking [here](https://arturcolen.github.io/Gallery/).
+You can view the hosted page by clicking [here](https://gallery-sass-artur-bomtempo.vercel.app/).
